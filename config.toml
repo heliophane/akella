@@ -1,4 +1,4 @@
 baseURL = 'https://akella.xyz/'
 languageCode = 'en-us'
 title = 'akella'
-theme = 'lugo'
+theme = 'akella'
